@@ -1,5 +1,7 @@
 # 🦜🔗 Generative AI using Langchain 
 
+<details>
+<summary>📚 Syllabus</summary>
 
 | No. | 	Title 	   |	 Lecture	 |	 Notebook 	|
 | --- | -------------------| --------------------| -------------------- |
@@ -7,7 +9,7 @@
 | 2  | GENAI for Beginners                       | [🧑‍🏫](https://www.youtube.com/watch?v=_3ezSpJw2E8&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=2)  | [📒]       |
 | 3  | Introduction to LangChain                 | [🧑‍🏫](https://www.youtube.com/watch?v=nlz9j-r0U9U&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=3)  | [📒]       |
 | 4  | LangChain Components              	 | [🧑‍🏫](https://www.youtube.com/watch?v=-xSJA8-o6Eg&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=4)        | [📒]       |
-| 5  | LangChain Models               	         | [🧑‍🏫](https://www.youtube.com/watch?v=HdcLE8JuMrA&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=5)  | [📒](../genertive-ai-using-langchain/01-langchain-models/)       |
+| 5  | LangChain Models               	         | [🧑‍🏫](https://www.youtube.com/watch?v=HdcLE8JuMrA&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=5)  | [📒]       |
 | 6  | Prompts in LangChain                      | [🧑‍🏫](https://www.youtube.com/watch?v=3TGqlQxpuU0&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=6)  | [📒]       |
 | 7  | Structured Output in LangChain            | [🧑‍🏫](https://www.youtube.com/watch?v=y5EmRr1O1h4&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=7)  | [📒]       |
 | 8  | Output Parsers in LangChain               | [🧑‍🏫](https://www.youtube.com/watch?v=Op6PbJZ5b2Q&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=8)  | [📒]       |
@@ -23,6 +25,25 @@
 | 18 | Tools in LangChain           		 | [🧑‍🏫](https://www.youtube.com/watch?v=etnLX7m2MiA&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=18) | [📒]       |
 | 19 | Tool Calling in LangChain   		 | [🧑‍🏫](https://www.youtube.com/watch?v=EzYaFF7ahKw&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=19) | [📒]       |
 | 20 | Building End-to-End AI Agent in LangChain | [🧑‍🏫](https://www.youtube.com/watch?v=gm_lQG8fYjI&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=20) | [📒]       |
+
+</details>
+
+#### [LangChain Models](../genertive-ai-using-langchain/01-langchain-models/)
+
+1. **LLM**
+   1. [LLM Demo](../genertive-ai-using-langchain/01-langchain-models/01-llm/01-llm-demo.py)
+2. **Chat Models**
+   1. [OpenAI chat models](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/01-chatmodel-openai.py)
+   2. [Anthropic Chat Models](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/02-chatmodel-anthropic.py)
+   3. [Google Chat Models](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/03-chatmodel-google.py)
+   4. [Hugging Face API](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/04-chartmodel-hf-api.py)
+   5. [Hugging Face Local](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/05-chatmodel-hf-local.py)
+3. **Embedding Models**
+   1. [Embedding OpenAI Query](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/01-embedding-openai-query.py)
+   2. [Embedding OpenAI Docs](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/02-embedding-openai-docs.py)
+   3. [Embedding HF Local](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/03-embedding-hf-local.py)
+   4. [Text Similarity](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/04-document-similarity.py)
+   
 
 ---
 
