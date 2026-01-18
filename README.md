@@ -31,28 +31,44 @@
 ## LangChain Models
 
 1. **LLM**
-   1. [LLM Demo](../genertive-ai-using-langchain/01-langchain-models/01-llm/01-llm-demo.py)
+   1. [LLM Demo](01-langchain-models/01-llm/01-llm-demo.py)
+
 2. **Chat Models**
-   1. [OpenAI chat models](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/01-chatmodel-openai.py)
-   2. [Anthropic Chat Models](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/02-chatmodel-anthropic.py)
-   3. [Google Chat Models](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/03-chatmodel-google.py)
-   4. [Hugging Face API](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/04-chartmodel-hf-api.py)
-   5. [Hugging Face Local](../genertive-ai-using-langchain/01-langchain-models/02-chat-models/05-chatmodel-hf-local.py)
+   1. [OpenAI chat models](01-langchain-models/02-chat-models/01-chatmodel-openai.py)
+   2. [Anthropic Chat Models](01-langchain-models/02-chat-models/02-chatmodel-anthropic.py)
+   3. [Google Chat Models](01-langchain-models/02-chat-models/03-chatmodel-google.py)
+   4. [Hugging Face API](01-langchain-models/02-chat-models/04-chartmodel-hf-api.py)
+   5. [Hugging Face Local](01-langchain-models/02-chat-models/05-chatmodel-hf-local.py)
+   
 3. **Embedding Models**
-   1. [Embedding OpenAI Query](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/01-embedding-openai-query.py)
-   2. [Embedding OpenAI Docs](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/02-embedding-openai-docs.py)
-   3. [Embedding HF Local](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/03-embedding-hf-local.py)
-   4. [Text Similarity](../genertive-ai-using-langchain/01-langchain-models/03-embedding-models/04-document-similarity.py)
+   1. [Embedding OpenAI Query](01-langchain-models/03-embedding-models/01-embedding-openai-query.py)
+   2. [Embedding OpenAI Docs](01-langchain-models/03-embedding-models/02-embedding-openai-docs.py)
+   3. [Embedding HF Local](01-langchain-models/03-embedding-models/03-embedding-hf-local.py)
+   4. [Text Similarity](01-langchain-models/03-embedding-models/04-document-similarity.py)
    
 
 ## LangChain Prompts
-1. [Temperature](../generative-ai-using-langchain/02-langchain-prompts/01-temperature/temperature.py)
+
+1. [Temperature](02-langchain-prompts/01-temperature/temperature.py)
+
 2. **Static & Dynamic Prompt**
-   1. [Static Prompt](../generative-ai-using-langchain/02-langchain-prompts/02-static-and-dynamic-prompt/01-static-prompt-ui.py)
-   2. [Dynamic Prompt with streamlit UI](../generative-ai-using-langchain/02-langchain-prompts/02-static-and-dynamic-prompt/02-dynamic-prompt-ui.py)
-   3. [Prompt Generator form PromptTemplate](../generative-ai-using-langchain/02-langchain-prompts/02-static-and-dynamic-prompt/03-prompt-generator.py)
-   4. [Advanced Dynamic Prompt with UI](../generative-ai-using-langchain/02-langchain-prompts/02-static-and-dynamic-prompt/04-adv-dynamic-prompt-ui.py)
-3. [Simple Chatbot](../generative-ai-using-langchain/02-langchain-prompts/03-chatbot/01-simple-chatbot.py)
+   1. [Static Prompt](02-langchain-prompts/02-static-and-dynamic-prompt/01-static-prompt-ui.py)
+   2. [Dynamic Prompt with Streamlit UI](02-langchain-prompts/02-static-and-dynamic-prompt/02-dynamic-prompt-ui.py)
+   3. [Prompt Generator from PromptTemplate](02-langchain-prompts/02-static-and-dynamic-prompt/03-prompt-generator.py)
+   4. [Advanced Dynamic Prompt with UI](02-langchain-prompts/02-static-and-dynamic-prompt/04-adv-dynamic-prompt-ui.py)
+
+3. Simple Chatbot
+   1. [Simple Chatbot](02-langchain-prompts/03-chatbot/01-simple-chatbot.py)
+   2. [Chatbot w/ Human, system, AI message](02-langchain-prompts/03-chatbot/02-chatbot-with-message.py)
+   
+4. Message
+   1. [Type of Messages](02-langchain-prompts/04-message/01-messages.py)
+   2. [Dynamic Chat Prompt Template](02-langchain-prompts/04-message/02-dynamic-chat-prompt-template.py)
+   3. [Message Place Holder](02-langchain-prompts/04-message/03-message-placeholder.py)
+
+
+
+
 ---
 
 ## 🧑‍💻 Author

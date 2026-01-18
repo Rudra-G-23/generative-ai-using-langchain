@@ -19,3 +19,4 @@
 - Another Model: https://huggingface.co/google/flan-t5-small
 - BERT Paper: https://arxiv.org/pdf/1810.04805
 - Attention all you need Paper: https://arxiv.org/pdf/1706.03762
+- Cogito: https://ollama.com/library/cogito-2.1:671b
