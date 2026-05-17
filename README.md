@@ -1,4 +1,4 @@
-# 🦜🔗 Generative AI using Langchain 
+# 🦜🔗 Generative AI using Langchain  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Rudra-G-23/generative-ai-using-langchain)
 
 <details>
 <summary>📚 Syllabus</summary>
