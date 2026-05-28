@@ -30,17 +30,17 @@
 
 ## 01. LangChain Models
 
-1. **LLM**
+1. LLM
    1. [LLM Demo](01-langchain-models/01-llm/01-llm-demo.py)
 
-2. **Chat Models**
+2. Chat Models
    1. [OpenAI chat models](01-langchain-models/02-chat-models/01-chatmodel-openai.py)
    2. [Anthropic Chat Models](01-langchain-models/02-chat-models/02-chatmodel-anthropic.py)
    3. [Google Chat Models](01-langchain-models/02-chat-models/03-chatmodel-google.py)
    4. [Hugging Face API](01-langchain-models/02-chat-models/04-chartmodel-hf-api.py)
    5. [Hugging Face Local](01-langchain-models/02-chat-models/05-chatmodel-hf-local.py)
    
-3. **Embedding Models**
+3. Embedding Models
    1. [Embedding OpenAI Query](01-langchain-models/03-embedding-models/01-embedding-openai-query.py)
    2. [Embedding OpenAI Docs](01-langchain-models/03-embedding-models/02-embedding-openai-docs.py)
    3. [Embedding HF Local](01-langchain-models/03-embedding-models/03-embedding-hf-local.py)
@@ -51,7 +51,7 @@
 
 1. [Temperature](02-langchain-prompts/01-temperature/temperature.py)
 
-2. **Static & Dynamic Prompt**
+2. Static & Dynamic Prompt
    1. [Static Prompt](02-langchain-prompts/02-static-and-dynamic-prompt/01-static-prompt-ui.py)
    2. [Dynamic Prompt with Streamlit UI](02-langchain-prompts/02-static-and-dynamic-prompt/02-dynamic-prompt-ui.py)
    3. [Prompt Generator from PromptTemplate](02-langchain-prompts/02-static-and-dynamic-prompt/03-prompt-generator.py)
@@ -66,8 +66,11 @@
    2. [Dynamic Chat Prompt Template](02-langchain-prompts/04-message/02-dynamic-chat-prompt-template.py)
    3. [Message Place Holder](02-langchain-prompts/04-message/03-message-placeholder.py)
 
+## 03. Structured Output
 
-
+1. [Type Dict](03-langchain-structured-output/01-type-dict/)
+2. [Pydantic](03-langchain-structured-output/02-pydantic/)
+3. [Json](03-langchain-structured-output/03-json/)
 
 ---
 

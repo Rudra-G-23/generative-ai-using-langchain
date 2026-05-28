@@ -6,6 +6,8 @@ graph TD
     A --> C(Structured Output)
 ```
 
+---
+
 ```mermaid
 graph TD
     A[LLM's Output] --> B(Unstructured Output)
@@ -22,4 +24,13 @@ graph TD
 - API Building
 - Multi Agents
 
+#### Few things to remember 
+
+```mermaid
+graph TD
+    WSO(with_structured_output) --> |Claude, Gemini| A(json_format)
+    WSO --> |OpenAI| B(function_calling)
+```
+
 #### Resources
+- https://github.com/campusx-official/langchain-structured-output
