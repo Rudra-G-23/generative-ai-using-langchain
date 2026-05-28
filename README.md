@@ -60,6 +60,26 @@
 3. StructuredOutputParser
 4. PydanticOutputParser
 
+### [07. Chain](07-chain/)
+
+1. Simple Chain
+2. Sequential Chain
+3. Parallel Chain
+4. Conditional chain
+
+
+### [08. Runnable (1/2)](08-runnable-p1/)
+- Why it is important
+- Without Runnable and with Runnable
+
+
+### [09. Runnable (2/2)](09-runnable-p2/)
+1. Runnable Sequence
+2. Runnable parallel
+3. Runnable Passthrough
+4. Runnable lambda
+5. Runnable Branch
+
 
 ---
 
