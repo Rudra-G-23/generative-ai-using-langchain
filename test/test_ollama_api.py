@@ -5,8 +5,8 @@ Last Update: 28-05-2026
 """
 
 import os
+
 from dotenv import load_dotenv
-from langchain_ollama import ChatOllama
 from langchain_openai import ChatOpenAI
 
 load_dotenv()
@@ -17,7 +17,7 @@ llm = ChatOpenAI(
     model="qwen2.5:0.5b",
     temperature=0.0,
     base_url="https://ollama.com/api",
-    api_key=api_key
+    api_key=api_key,
 )
 
 response = llm.invoke("What is the capital of India?")

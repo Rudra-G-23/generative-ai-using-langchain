@@ -1,6 +1,7 @@
 import os
+
 from dotenv import load_dotenv
-from langchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
+from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 
 load_dotenv()
 huggingface_api_key = os.getenv("HUGGINGFACEHUB_API_TOKEN")
@@ -9,7 +10,7 @@ llm = HuggingFaceEndpoint(
     repo_id="microsoft/Phi-4-mini-instruct",
     task="text-generation",
     huggingfacehub_api_token=huggingface_api_key,
-    max_new_tokens=20
+    max_new_tokens=20,
 )
 
 chat_model = ChatHuggingFace(llm=llm)
