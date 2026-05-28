@@ -53,6 +53,14 @@
 2. Pydantic
 3. Json 
 
+### [06. Output Parsers](06-output-parsers/)
+
+1. StrOutParser
+2. JsonOutputParser
+3. StructuredOutputParser
+4. PydanticOutputParser
+
+
 ---
 
 ## 🧑‍💻 Author
