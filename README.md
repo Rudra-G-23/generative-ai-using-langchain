@@ -80,6 +80,20 @@
 4. Runnable lambda
 5. Runnable Branch
 
+### [10. Document Loader](10-document-loaders/)
+
+1. txt Loader
+2. Csv Loader
+3. web base loader
+4. py pdf loader
+
+### 11. Text Splitter
+
+1. Text Splitting
+2. Length Based text splitting
+3. Text-Structure based Text Splitting
+4. Document-Structure based Text Splitting 
+5. Semantic Meaning Based
 
 ---
 
