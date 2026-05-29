@@ -1,6 +1,8 @@
 """
 This model is working on locally.
 This automatically created sqlite3.
+
+Docs: https://docs.langchain.com/oss/python/integrations/vectorstores/chroma
 """
 
 from langchain_chroma import Chroma

@@ -87,13 +87,27 @@
 3. web base loader
 4. py pdf loader
 
-### 11. Text Splitter
+### [11. Text Splitter](11-text-splitters/)
 
 1. Text Splitting
 2. Length Based text splitting
 3. Text-Structure based Text Splitting
 4. Document-Structure based Text Splitting 
 5. Semantic Meaning Based
+
+### [12. Vector Store](12-vector-store/)
+
+1. LangChain Chorma
+2. LangChain FAISS
+
+### [13. Retrievers](13-retrievers/)
+
+1. Wikipedia Retrievers
+2. Vector Store Retrievers
+3. MMR
+4. Multi query Retrievers
+5. Contextual Compression Retrievers
+
 
 ---
 

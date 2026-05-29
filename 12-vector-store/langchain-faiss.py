@@ -1,5 +1,3 @@
-"""requires-python = ">=3.9,<3.11". But in our project had different version."""
-
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 from langchain_huggingface import HuggingFaceEmbeddings

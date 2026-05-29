@@ -1,0 +1,2 @@
+- Sir Lecture [Link](https://www.youtube.com/watch?v=pJdMxwXBsk0&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=15)
+- Repo: [Link](https://colab.research.google.com/drive/1vuuIYmJeiRgFHsH-ibH_NUFjtdc5D9P6?usp=sharing)

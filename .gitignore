@@ -4,6 +4,7 @@
 
 ### Local ###
 my_chroma_db/
+faiss_index/
 
 ### Backup ###
 *.bak
