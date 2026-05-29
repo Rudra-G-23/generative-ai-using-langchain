@@ -109,12 +109,26 @@
 5. Contextual Compression Retrievers
 
 ### [14. RAG (1/2)](14-rag-p1/)
+
 - Theory
 
 ### [15. RAG (2/2)](15-rag-p2/)
 
 - Code
 
+### [16. Tool](16-tools/)
+
+1. DuckDuckGoSearch
+2. ShellTool
+3. Custom Tool
+4. Structured Tool
+5. Base Tool
+6. Toolkit
+
+### [17. Tool Calling](17-tool-calling/)
+
+- Custom Tool Calling
+- Tool Calling with API
 
 ---
 

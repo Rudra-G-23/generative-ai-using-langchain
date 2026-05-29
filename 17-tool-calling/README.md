@@ -1,0 +1,2 @@
+- Google Colab:  [Link](https://colab.research.google.com/drive/1-xMYU9ExZqoySEX-XHAvEaE17PCWvc9H?usp=sharing)
+- Sir Lecture [Link](https://www.youtube.com/watch?v=EzYaFF7ahKw&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=19)
