@@ -130,6 +130,10 @@
 - Custom Tool Calling
 - Tool Calling with API
 
+### [18. Agents](18-agent-in-langchain/)
+
+- Custom Agents building
+
 ---
 
 ## 🧑‍💻 Author

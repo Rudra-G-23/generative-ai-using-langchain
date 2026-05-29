@@ -29,6 +29,7 @@ dependencies = [
     "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.7",
     "langchain-text-splitters>=1.1.0",
+    "langchainhub>=0.1.21",
     "numpy>=2.4.1",
     "openai>=2.15.0",
     "pandas>=2.3.3",
