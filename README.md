@@ -108,6 +108,13 @@
 4. Multi query Retrievers
 5. Contextual Compression Retrievers
 
+### [14. RAG (1/2)](14-rag-p1/)
+- Theory
+
+### [15. RAG (2/2)](15-rag-p2/)
+
+- Code
+
 
 ---
 

@@ -1,0 +1,2 @@
+- Goggle Colab [Link](https://colab.research.google.com/drive/1pat55z_iiLqzInsLi3sWS2wekFCXprQW?usp=sharing#scrollTo=oWSK4-VQH8CG)
+- YT [Link](https://www.youtube.com/watch?v=J5_-l7WIO_w&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=17)
